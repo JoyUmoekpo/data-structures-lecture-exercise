@@ -77,7 +77,7 @@ mySLL.addToEnd(new Node("Vanitas"));
 mySLL.addToEnd(new Node("Roland"));
 mySLL.addToEnd(new Node("Dante"));
 mySLL.addToEnd(new Node("Olivier"));
-mySLL.addToFront(new Node("Vanitas No Carte));
+mySLL.addToFront(new Node("Vanitas No Carte"));
 mySLL.addAtIndex(5, new Node("Johann"));
 
 // node1.next = node2
